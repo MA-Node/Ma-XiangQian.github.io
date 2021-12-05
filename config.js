@@ -27,21 +27,16 @@ let config={
     side_link:[
         {title:"文档分类",
         hrefs:[
-            {name:"Git",href:"#"},
-            {name:"Htnl",href:"#"},
-            {name:"Css",href:"#"},
-            {name:"Javascript",href:"#"},
-            {name:"Node.js",href:"#"},
-            {name:"Express",href:"#"},
+            {name:"Git",href:"https://ma-node.github.io/#/docs/git/"},
         ]},
 
         {title:"网站导航",
         hrefs:[
-            {name:"我的网站",href:"#"},
+            {name:"我的网站",href:"https://ma-node.github.io/"},
             {name:"菜鸟教程",href:"https://www.runoob.com/"},
-            {name:"W3C",href:"#"},
-            {name:"MDN",href:"#"},
-            {name:"Docsify",href:"#"},
+            {name:"W3C",href:"https://www.w3school.com.cn/"},
+            {name:"MDN",href:"https://developer.mozilla.org/zh-CN/"},
+            {name:"Docsify",href:"https://docsify.js.org/#/zh-cn/"},
         ]}
     ],
 
@@ -49,9 +44,9 @@ let config={
     about:{
         img:"./img/me.JPG",
         take:"有一个早晨我扔掉了所有的昨天，从此我的脚步就轻盈了。",
-        my_site:"/",
-        bz:"#",
-        github:"#",
+        my_site:"https://ma-xiangqian.github.io/",
+        bz:"https://space.bilibili.com/404266270",
+        github:"https://github.com/Ma-XiangQian/Ma-XiangQian.github.io.git",
         gitee:"#",
     },
 
